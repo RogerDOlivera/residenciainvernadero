@@ -1,7 +1,11 @@
+<<<<<<< Updated upstream
 archivo para pruebas 
 <<<<<<< Updated upstream
 roger
 =======
+=======
+archivo para pruebas :P :D :V
+>>>>>>> Stashed changes
 
 gaby
 >>>>>>> Stashed changes
