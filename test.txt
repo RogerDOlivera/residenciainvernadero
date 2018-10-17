@@ -1,5 +1,10 @@
 archivo para pruebas 
+<<<<<<< Updated upstream
 roger
+=======
+
+gaby
+>>>>>>> Stashed changes
 
 
 
